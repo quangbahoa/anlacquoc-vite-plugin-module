@@ -1,6 +1,6 @@
 import babelGenerator from '@babel/generator'
 import parser from '@babel/parser'
-import globalVue from '@concordcrm/vite-plugin-global-vue'
+import globalVue from '@anlacquoc/vite-plugin-global-vue'
 import path from 'path'
 
 import autoImportI18n from './replacers/autoImportI18n.js'

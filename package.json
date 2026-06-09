@@ -1,5 +1,5 @@
 {
-  "name": "@concordcrm/vite-plugin-module",
+  "name": "@anlacquoc/vite-plugin-module",
   "type": "module",
   "version": "1.0.10",
   "dependencies": {
@@ -7,7 +7,7 @@
     "@babel/parser": "^7.23.0",
     "@babel/traverse": "^7.23.2",
     "@babel/types": "^7.23.0",
-    "@concordcrm/vite-plugin-global-vue": "^1.0.8"
+    "@anlacquoc/vite-plugin-global-vue": "quangbahoa/anlacquoc-vite-plugin-global-vue"
   },
   "main": "index.js",
   "scripts": {
@@ -18,13 +18,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/concordcrm/vite-plugin-module.git"
+    "url": "git+https://github.com/quangbahoa/anlacquoc-vite-plugin-module.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/concordcrm/vite-plugin-module/issues"
+    "url": "https://github.com/quangbahoa/anlacquoc-vite-plugin-module/issues"
   },
-  "homepage": "https://github.com/concordcrm/vite-plugin-module#readme",
+  "homepage": "https://github.com/quangbahoa/anlacquoc-vite-plugin-module#readme",
   "description": ""
 }
